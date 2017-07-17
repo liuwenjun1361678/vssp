@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">vssp</string>
+    <string name="server_prefix">http://172.16.1.12:8080/capi/</string>
+</resources>
